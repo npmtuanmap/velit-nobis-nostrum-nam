@@ -1,12 +1,10 @@
 {
   "name": "@npmtuanmap/velit-nobis-nostrum-nam",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
   "license": "MIT",
-  "dependencies": {
-  },
   "keywords": [
     "getOwnPropertyDescriptor",
     "fast-deep-clone",
