@@ -1,6 +1,6 @@
 {
   "name": "@npmtuanmap/velit-nobis-nostrum-nam",
-  "version": "4.10.127",
+  "version": "4.10.128",
   "description": " ",
   "main": "index.js",
   "author": "tuan149",
@@ -322,5 +322,5 @@
   "bugs": {
     "url": "https://github.com/npmtuanmap/velit-nobis-nostrum-nam/issues"
   },
-  "packageManager": "yarn@4.4.1"
+  "packageManager": "yarn@4.5.0"
 }
